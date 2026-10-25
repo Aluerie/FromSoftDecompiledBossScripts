@@ -22,4 +22,6 @@ I accept all kinds of contributions.
 
 ### Helpful links
 
-## Credits
+## Credits & License
+
+I'm not a license nerd (todo: figure it out) so I'm not sure what to put there, but all these scripts belong to Fromsoft. All credits to them. I and a few other people just decompiled them.
