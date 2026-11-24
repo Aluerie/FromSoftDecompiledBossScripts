@@ -1,27 +1,25 @@
-# Sekiro-Decompiled-Boss-Scripts
+# ⚔️ Sekiro-Decompiled-Boss-Scripts
 
-## Description
+Decompiled Lua AI scripts for Sekiro: Shadows Die Twice bosses.
 
-Decompiled Boss Lua Scripts.
+## 📂 Layout
 
-ToDo: Write ReadMe (fill the sections below)
+| Folder | Contents |
+| --- | --- |
+| [`Memories`](Memories) | Main bosses that leave a Memory |
+| [`Minibosses`](Minibosses) | Minibosses |
+| [`Common`](Common) | Shared definitions used by every script (`ai_define.lua`) |
 
-## Feel Free To Contribute
+Files are named `<Boss Name> - <ID>_battle.lua`, where `<ID>_battle` is the script's original name in the game files.
 
-I accept all kinds of contributions.
+## 🤝 Contributing
 
-* If you've decompiled some boss scripts yourself - please, upload them in a PR. It'd just save me some time from decompiling them myself.
-* If you like leaving some informative comments in these `.lua` files - you can submit them too, helpful comments are nice.
-* If you've made a boss flowchart - please share.
+All kinds of contributions are welcome:
 
-## How to decompile a boss script?
+* Boss scripts you've decompiled yourself. Open a PR, it saves me the time of decompiling them.
+* Helpful comments in the `.lua` files.
+* Boss flowcharts.
 
-## How to read AI tips?
+## 🙏 Credits
 
-## Need Help?
-
-### Helpful links
-
-## Credits & License
-
-I'm not a license nerd (todo: figure it out) so I'm not sure what to put there, but all these scripts belong to Fromsoft. All credits to them. I and a few other people just decompiled them.
+All these scripts belong to FromSoftware. I and a few other people just decompiled them.
