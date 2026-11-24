@@ -1,4 +1,4 @@
-# 🗡️ FromSoft-Decompiled-Boss-Scripts
+# 🗡️ FromSoftDecompiledBossScripts
 
 Decompiled Lua AI scripts for FromSoftware bosses.
 
